@@ -6,9 +6,9 @@ Enter your administrator *Username* (or email if prompted) and *Password* and pr
 
 Signing in will return you to your site's home page, with a new tool bar across the top of the page.
 
-Q> ## What browsers can I use to edit my site?
-Q>
-Q> concrete5 is designed to work with *modern* browsers, such as *Google Chrome, Firefox, Safari,  Internet Explorer 10+ and Microsoft Edge*. It is recommended you use a recently released browser to avoid editing issues. Basic editing tasks are possible on a tablet device, but it is recommended that you use a non-touch device for full editing control.
+## What browsers can I use to edit my site?
+
+concrete5 is designed to work with *modern* browsers, such as *Google Chrome, Firefox, Safari,  Internet Explorer 10+ and Microsoft Edge*. It is recommended you use a recently released browser to avoid editing issues. Basic editing tasks are possible on a tablet device, but it is recommended that you use a non-touch device for full editing control.
 
 ### Signing Out
 
