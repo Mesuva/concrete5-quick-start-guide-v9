@@ -25,10 +25,7 @@ Areas that highlight in blue are 'Global' areas - content in these areas will ap
 
 Blocks can be re-arranged on a page via the following steps:
 
-1. Hover over the block you wish to move and start draging it by the *four pointed arrow* in the top right corner of the block.
- 
-  
-
+1. Hover over the block you wish to move and start dragging it by the *four pointed arrow* in the top right corner of the block.
 2. Drag the block to a new position - areas on the page will highlight to show possible new positions.
 3. Let go of the mouse button while one of the new positions is highlighted.
 
