@@ -10,9 +10,9 @@ To add a layout:
 1. Select the **Edit Page (Pencil)** button on the top toolbar. 
 2. Hover over the an editable area on the page - a small label will appear beneath it with the name of the area.
 3. Click the area label and select **Add Layout**.
-
+![](/assets/addlayout.png)
 4. The layout controls will appear. Adjust the number of columns needed and resize them by dragging the square handles to the sides of each column.
-
+![](/assets/layoutgrid.png)
 5. Press the blue **Add Layout** button to finalise the layout.
 6. Blocks can now be placed into the new layout areas.
 
