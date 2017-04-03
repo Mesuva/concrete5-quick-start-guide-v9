@@ -2,8 +2,8 @@
 
 ## To insert headings and paragraphs
 Use the Content block to include text headings and paragraphs on a page.
-Add or Edit a content block, *highlight some text* and select the **Formatting** button on the toolbar and select a heading type.
-
+Add or Edit a content block, *highlight some text* and select the **Formatting** drop down on the toolbar and select a heading type.
+![](/assets/editor.png)
 
 ## To insert links to pages, files and external URLs
 Within a Content block, *highlight some text* and select the **Link** button on the Content block toolbar.
