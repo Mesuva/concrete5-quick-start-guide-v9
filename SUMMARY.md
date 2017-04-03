@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Signing In and Out](signing-in-and-out.md)
 * [The Toolbar Explained](the-toolbar-explained.md)
-* Editing Existing Page Content
+* [Editing Existing Page Content](editing-existing-page-content.md)
 * [Common Editing Tasks](common-editing-tasks.md)
 * [Creating New Pages](creating-new-pages.md)
 * [Changing page names, URL paths and metadata](changing-page-names-url-paths-and-metadata.md)
