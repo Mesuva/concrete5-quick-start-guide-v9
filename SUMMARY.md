@@ -5,4 +5,5 @@
 * [The Toolbar Explained](the-toolbar-explained.md)
 * Editing Existing Page Content
 * [Common Editing Tasks](common-editing-tasks.md)
+* [Creating New Pages](creating-new-pages.md)
 
