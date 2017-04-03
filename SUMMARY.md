@@ -11,4 +11,5 @@
 * [Creating page layouts](creating-page-layouts.md)
 * [Sitemap and moving pages](sitemap-and-moving-pages.md)
 * [File Management](file-management.md)
+* [Deleting, restoring pages and versioning](deleting-restoring-pages-and-versioning.md)
 
