@@ -8,6 +8,8 @@ Add or Edit a content block, *highlight some text* and select the **Formatting**
 ## To insert links to pages, files and external URLs
 Within a Content block, *highlight some text* and select the **Link** button on the Content block toolbar.
 
+![](/assets/linkicon.png)
+
 
 From the dialog, you can either:
 
@@ -15,6 +17,7 @@ From the dialog, you can either:
 * Select the file button, to select a file to link to from the file manager.
 * Directly enter the URL that you wish to link to (in particular for external websites).
 
+![](/assets/linkbox.png)
 
 ## Adding Images
 Images can be added in two ways:
@@ -36,3 +39,5 @@ Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easi
 1. Select the **Add Content (Plus)** button on the top toolbar. The block toolbar will slide in from the left.
 2. At the top of the panel, click the dropdown and select **Clipboard** from the options.
 3. Blocks within the clipboard will be displayed. Drag the block you wish to place into an editable area.
+
+![](/assets/clipboard.png)
