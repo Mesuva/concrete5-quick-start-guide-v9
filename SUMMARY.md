@@ -6,4 +6,5 @@
 * Editing Existing Page Content
 * [Common Editing Tasks](common-editing-tasks.md)
 * [Creating New Pages](creating-new-pages.md)
+* [Changing page names, URL paths and metadata](changing-page-names-url-paths-and-metadata.md)
 
