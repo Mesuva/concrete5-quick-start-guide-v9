@@ -8,4 +8,5 @@
 * [Creating New Pages](creating-new-pages.md)
 * [Changing page names, URL paths and metadata](changing-page-names-url-paths-and-metadata.md)
 * [Adjusting Page Attributes](adjusting-page-attributes.md)
+* [Creating page layouts](creating-page-layouts.md)
 
