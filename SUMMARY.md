@@ -12,4 +12,5 @@
 * [Sitemap and moving pages](sitemap-and-moving-pages.md)
 * [File Management](file-management.md)
 * [Deleting, restoring pages and versioning](deleting-restoring-pages-and-versioning.md)
+* [Needing more guidance?](needing-more-guidance.md)
 
