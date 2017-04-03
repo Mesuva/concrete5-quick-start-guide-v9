@@ -10,6 +10,8 @@ Click the **Dashboard** button on the toolbar and select **Files**.
 
 Within the File Manager individual files can be clicked on to present a context menu, where they can be previewed, downloaded and deleted.
 
+![](/assets/managingfiles.png)
+
 
 ## To upload new files
 
