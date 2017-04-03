@@ -24,6 +24,8 @@ When a page is published previous revisions of the page are retained. To view pr
 4. While hovering over a page version, click the **arrow** icon next to the timestamp of the version to bring up a menu
 5. Select **Approve** to make that version the current visible version of the page
 
+![](/assets/version.png)
+
 
 When adjusting page version, take note of the 'Page is Pending Approval' notice - unapproved newer page versions will be shown while you are editing the site and will ask to be approved. 
 Through the Versions panel you can also delete versions if they are no longer required.
