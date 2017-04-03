@@ -20,6 +20,7 @@ Page types may also be configured to be initially created through direct editing
 
 1. Add page content by adding blocks or editing any default blocks
 2. Select the **Edit Page (Pencil)** button on the top left of the tool bar and publish your new page.
+![](/assets/publishpage.png)
 
 When you create a page this way and try to publish it you wil be presented with a message that you haven't entered a page name or selected its location. To complete:
 
