@@ -1,4 +1,4 @@
-# Needing more guidance?
+#12. Needing more guidance?
 
 This guide is intended to cover common editing tasks and is no way an exhaustive coverage of concrete5's features.
 
