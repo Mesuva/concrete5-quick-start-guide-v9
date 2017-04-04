@@ -1,4 +1,4 @@
-# Changing page names, URL paths and metadata
+#6. Changing page names, URL paths and metadata
 
 ## To change the name or the url of a page
 1. Select the **Page Settings (Gear)** button on the top toolbar. 
@@ -12,5 +12,5 @@
 
 Note - the Page Name and URL Slug fields are also available under the *Composer* panel. If this is available for the page you are editing you can use the fields there as well to make the same changes. 
 
-## What are the 'Meta Title' and 'Meta Descriptions' used for?
+### What are the 'Meta Title' and 'Meta Descriptions' used for?
 A page's metadata is information about a page that isn't displayed directly on the page, but can be automatically read by search engines. Use these fields to specify the title and description of a page that appears within a search engine result. Often these changes are performed as part of *Search Engine Optimization*, or SEO.
