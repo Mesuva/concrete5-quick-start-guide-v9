@@ -25,11 +25,12 @@ The search and buttons on the *right* relate to site-wide activities:
 
 
 ### Pages
-![](/assets/plus.png)
+![](/assets/pages.png)
 Opens a side panel listing the types of new pages that can be added. The panel also displays a sitemap, which can be used to quickly navigate to a page. Pages on the sitemap can also be dragged and dropped to re-order and change their nesting.
 
 
 ### Dashboard (Sliders)
+![](/assets/slider.png)
 Displays the main pages of concrete5's 'Dashboard'. The Dashboard is where sitewide settings and functionality are available, such as managing files and users.
 
 
