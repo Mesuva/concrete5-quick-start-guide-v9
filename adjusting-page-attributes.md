@@ -1,4 +1,4 @@
-# Adjusting Page Attributes
+#7. Adjusting Page Attributes
 
 ## To hide a page from navigation
 
