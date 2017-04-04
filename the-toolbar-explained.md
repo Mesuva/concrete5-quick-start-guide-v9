@@ -1,4 +1,4 @@
-# The Toolbar Explained
+# 2. The Toolbar Explained
 
 Most editing activities performed on a concrete5 website start via one of the top toolbar buttons - displayed after logging in.
 
