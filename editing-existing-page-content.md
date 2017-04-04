@@ -18,7 +18,7 @@ While the page is in Edit Mode further blocks on the page can be edited and save
 2. **Drag** the block you wish to add onto the page, dropping it onto the green and blue highlighted areas.
 3. The added block's edit controls will appear. Configure the block as you need and select the block's blue **Save** button.
 
- ## Editable areas
+### Editable areas
 Areas that highlight in green are regular areas that appear on the current page only.
 Areas that highlight in blue are 'Global' areas - content in these areas will appear sitewide
 
