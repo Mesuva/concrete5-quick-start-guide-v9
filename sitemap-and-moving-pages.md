@@ -1,4 +1,4 @@
-# Sitemap and moving pages
+# 9.Sitemap and moving pages
 
 Pages can be re-ordered and moved between sections via the Sitemap.
 
