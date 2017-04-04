@@ -1,4 +1,4 @@
-# Editing existing page content
+# 3. Editing existing page content
 
 Most content on a concrete5 website is managed through adding and editing *blocks*. Blocks are displayed within *Editable Areas* on pages.
 
