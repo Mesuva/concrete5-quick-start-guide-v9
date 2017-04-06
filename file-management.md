@@ -1,4 +1,4 @@
-#10. File Management
+# 10. File Management
 
 Images and files can be uploaded either via the Files section within the Dashboard, or directly at the time that they are added to a page.
 

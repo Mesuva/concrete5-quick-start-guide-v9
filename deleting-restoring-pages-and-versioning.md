@@ -1,4 +1,4 @@
-#11. Deleting, restoring pages and versioning
+# 11. Deleting, restoring pages and versioning
 
 ## Deleting Pages
 
@@ -26,6 +26,5 @@ When a page is published previous revisions of the page are retained. To view pr
 
 ![](/assets/version.png)
 
-
-**Note:** When adjusting page version, take note of the 'Page is Pending Approval' notice - unapproved newer page versions will be shown while you are editing the site and will ask to be approved. 
+**Note:** When adjusting the page version, take note of the 'Page is Pending Approval' notice - unapproved newer page versions will be shown while you are editing the site and will ask to be approved. 
 Through the Versions panel you can also delete versions if they are no longer required.
