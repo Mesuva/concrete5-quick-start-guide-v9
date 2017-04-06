@@ -1,4 +1,4 @@
-#7. Adjusting Page Attributes
+# 7. Adjusting Page Attributes
 
 ## To hide a page from navigation
 
@@ -15,7 +15,7 @@
 
 Hiding a page from navigation does not prevent the page from being accessed, it simply stops a link to it from being shown on automatic navigation. You can still create links to the page manually.
 
-## Other useful attributes
+### Other useful attributes
  
 The attributes panel offers other built-in attributes that are useful for controlling your pages:
 
