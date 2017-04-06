@@ -1,4 +1,4 @@
-# 4. Common Editing Tasks
+# Common Editing Tasks
 
 ## To insert headings and paragraphs
 Use the Content block to include text headings and paragraphs on a page.

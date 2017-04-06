@@ -1,4 +1,4 @@
-# 8. Creating page layouts
+# Creating page layouts
 
 There are two common ways of changing the broader layout of a page:
 

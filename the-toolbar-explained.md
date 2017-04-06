@@ -1,13 +1,11 @@
-# 2. The Toolbar Explained
+# The Toolbar Explained
 
 Most editing activities performed on a concrete5 website start via one of the top toolbar buttons - displayed after logging in.
 
-Buttons on the *left* of the toolbar relate to the current page:
-
+#### Buttons on the *left* of the toolbar relate to the current page:
 
 ### Edit Mode (Pencil)
 ![](/assets/pencil.png)
-
 Enables editing on the current page. The button will turn green when in editing mode.
 
 
@@ -21,7 +19,7 @@ If the page you are on is able to be edited via a 'Composer' form, this button w
 ![](/assets/plus.png)
 Opens a side panel where the available 'block' types are listed for adding to the page. When this panel appears, blocks can be *dragged* from it onto the editable areas on the page.
 
-The search and buttons on the *right* relate to site-wide activities: 
+#### The search and buttons on the *right* relate to site-wide activities: 
 
 
 ### Pages
