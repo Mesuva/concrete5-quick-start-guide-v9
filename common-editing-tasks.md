@@ -1,4 +1,4 @@
-#4. Common Editing Tasks
+# 4. Common Editing Tasks
 
 ## To insert headings and paragraphs
 Use the Content block to include text headings and paragraphs on a page.
@@ -22,8 +22,8 @@ From the dialog, you can either:
 ## Adding Images
 Images can be added in two ways:
 
-* By using an Image block.
-* By editing a Content block and placing an image directly within the content.
+* By adding an Image block.
+* By using a Content block and placing an image directly within the content.
 
 ## Adding YouTube videos
 Add a 'YouTube Video' block to embed a youtube video.
