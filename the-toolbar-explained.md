@@ -24,6 +24,7 @@ Opens a side panel where the available 'block' types are listed for adding to th
 
 ### Pages
 ![](/assets/pages.png)
+
 Opens a side panel listing the types of new pages that can be added. The panel also displays a sitemap, which can be used to quickly navigate to a page. Pages on the sitemap can also be dragged and dropped to re-order and change their nesting.
 
 ### Dashboard (Sliders)
