@@ -10,7 +10,6 @@ Within a Content block, *highlight some text* and select the **Link** button on 
 
 ![](/assets/linkicon.png)
 
-
 From the dialog, you can either:
 
 * Select the sitemap button, to select a page within your site. 
@@ -19,6 +18,7 @@ From the dialog, you can either:
 
 ![](/assets/linkbox.png)
 
+**_Link box image_**
 ## Adding Images
 Images can be added in two ways:
 
@@ -42,4 +42,4 @@ Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easi
 
 ![](/assets/clipboard.png)
 
-**The block panel dropdown where the clipboard can be selected**
+_**The block panel dropdown where the clipboard can be selected**_
