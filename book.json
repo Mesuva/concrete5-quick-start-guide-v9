@@ -1,6 +1,7 @@
 {
   "pdf": {
-        "fontSize": 10
+        "fontSize": 10,
+        "paperSize" : "A4"
     },
   "plugins": ["numbered-headings"]
 }
