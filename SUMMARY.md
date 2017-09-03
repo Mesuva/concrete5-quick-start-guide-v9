@@ -1,6 +1,11 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
+
+## Signing In and Out
+
 * [Signing In and Out](signing-in-and-out.md)
     * [What browsers can I use?](signing-in-and-out.md#browsers)
     * [Signing out](signing-in-and-out.md#signout)
