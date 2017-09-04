@@ -1,8 +1,8 @@
 # The Toolbar Explained
 
-Most editing activities performed on a concrete5 website start via one of the top toolbar buttons - displayed after logging in.
+Most editing activities performed on a concrete5 website start via one of the top toolbar buttons.
 
-Buttons on the *left* of the toolbar relate to the current page:
+**Buttons on the *left* of the toolbar relate to the current page:**
 
 #### Edit Mode (Pencil)
 ![](/assets/pencil.png) Enables editing on the current page. The button will turn green when in editing mode.
@@ -16,7 +16,7 @@ Buttons on the *left* of the toolbar relate to the current page:
 
 ---
 
-The search and buttons on the *right* relate to site-wide activities: 
+**The search and buttons on the *right* relate to site-wide activities:** 
 
 #### Pages
 ![](/assets/pages.png) Opens a side panel listing the types of new pages that can be added. The panel also displays a sitemap, which can be used to quickly navigate to a page. Pages on the sitemap can also be dragged and dropped to re-order and change their nesting.
