@@ -1,8 +1,6 @@
 # The Toolbar Explained
 
-Most editing activities performed on a concrete5 website start via one of the top toolbar buttons.
-
-**Buttons on the *left* of the toolbar relate to the current page:**
+Most editing activities performed on a concrete5 website start via one of the top toolbar buttons. **Buttons on the *left* of the toolbar relate to the current page:**
 
 #### Edit Mode (Pencil)
 ![](/assets/pencil.png) Enables editing on the current page. The button will turn green when in editing mode.
