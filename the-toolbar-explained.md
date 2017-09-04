@@ -8,8 +8,8 @@ Buttons on the *left* of the toolbar relate to the current page:
 ![](/assets/pencil.png) Enables editing on the current page. The button will turn green when in editing mode.
 
 #### Composer / Page Settings (Gear)
-![](/assets/cog.png) Opens a panel where settings for the current page can be configured, such as the page's layout, its name, metadata and 'attributes'.
-If the page you are on is able to be edited via a 'Composer' form, this button will allow direct access to this form.
+![](/assets/cog.png) Opens a panel where settings for the current page can be configured, such as the page's layout, its name, metadata and 'attributes'. If the page you are on is able to be edited via a 'Composer' form, this button will allow direct access to this form.
+
 
 #### Add Content (Plus)
 ![](/assets/plus.png) Opens a side panel where the available 'block' types are listed for adding to the page. When this panel appears, blocks can be *dragged* from it onto the editable areas on the page.
