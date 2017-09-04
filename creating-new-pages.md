@@ -20,9 +20,8 @@ Page types may also be configured to be initially created through direct editing
 
 1. Add page content by adding blocks or editing any default blocks
 2. Select the **Edit Page (Pencil)** button on the top left of the tool bar and publish your new page.
-![](/assets/publishpage.png)
 
-When you create a page this way and try to publish it you wil be presented with a message that you haven't entered a page name or selected its location. To complete:
+<img src="/assets/publishpage.png" class="right" /> When you create a page this way and try to publish it you wil be presented with a message that you haven't entered a page name or selected its location. To complete:
 
 1. Select the **Page Composer Interface** link. This will bring up the 'Composer' interface where you can enter details for the new page, including selecting the desired location of the new page within the site.
 2. Complete these details and press the **Publish** button.
