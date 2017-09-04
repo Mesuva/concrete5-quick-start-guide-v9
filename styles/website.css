@@ -10,6 +10,6 @@ h2,h3,h4 {
 
 .right {
   float: right;
-  margin-right: 10px;
+  margin-left: 10px;
   margin-bottom: 20px;
 }
