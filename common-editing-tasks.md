@@ -8,26 +8,20 @@ Add or Edit a content block, *highlight some text* and select the **Formatting**
 ## To insert links to pages, files and external URLs
 Within a Content block, *highlight some text* and select the **Link** button on the Content block toolbar.
 
-![](/assets/linkicon.png)
-
 From the dialog, you can either:
 
 * Select the sitemap button, to select a page within your site. 
 * Select the file button, to select a file to link to from the file manager.
 * Directly enter the URL that you wish to link to (in particular for external websites).
 
-![](/assets/linkbox.png)
-
-**_Link box image_**
 ## Adding Images
 Images can be added in two ways:
 
-* By adding an Image block.
-* By using a Content block and placing an image directly within the content.
+* By adding an **Image** block.
+* By using a **Content** block and placing an image directly within the content.
 
 ## Adding YouTube videos
-Add a 'YouTube Video' block to embed a youtube video.
-Paste in the address of the video from youtube (e.g. https://www.youtube.com/watch?v=ABCDEF) into the YouTube URl field and press 'Add'.
+Add a **YouTube Video** block to embed a youtube video. Paste in the address of the video from youtube (e.g. https://www.youtube.com/watch?v=ABCDEF) into the YouTube URl field and press 'Add'.
 
 ## To copy blocks to the clipboard
 Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easily copied between pages. To copy a block:
