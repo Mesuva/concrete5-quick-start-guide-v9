@@ -2,8 +2,5 @@
   "pdf": {
         "fontSize": 10,
         "paperSize" : "a4"
-    },
-  "structure": {
-    "readme": "OTHER_README.md"
-  }
+    }
 }
