@@ -6,9 +6,8 @@ Most content on a concrete5 website is managed through adding and editing *block
 
 1. Select the **Edit Page (Pencil)** button on the top toolbar. 
 2. Hover over the block you wish to edit. Editable blocks will be outlined in green (or blue if they have been placed in 'global' areas).
-3. Click or tap on the block and from the context menu select **Edit Block**. Different block types have different editing controls. For general text content a *Content Block* is most often used. When Content blocks are edited the page content will become directly editable and a formatting toolbar will be presented above the content.
+3. <img src="/assets/editblock.png" class="right" />Click or tap on the block and from the context menu select **Edit Block**. Different block types have different editing controls. For general text content a *Content Block* is most often used. When Content blocks are edited the page content will become directly editable and a formatting toolbar will be presented above the content.
 
-![](/assets/editblock.png)
  4. Edit the block contents using the controls displayed and save the block by selecting the blue **Save** button.
 
 While the page is in Edit Mode further blocks on the page can be edited and saved.
