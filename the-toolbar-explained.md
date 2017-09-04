@@ -4,10 +4,10 @@ Most editing activities performed on a concrete5 website start via one of the to
 
 **Buttons on the *left* of the toolbar relate to the current page:**
 
-<div id="icons">
-
 #### Edit Mode (Pencil)
 ![](/assets/pencil.png) Enables editing on the current page. The button will turn green when in editing mode.
+
+<img src="/assets/pencil.png" class="left" /> Enables editing on the current page. The button will turn green when in editing mode.
 
 #### Composer / Page Settings (Gear)
 ![](/assets/cog.png) Opens a panel where settings for the current page can be configured, such as the page's layout, its name, metadata and 'attributes'. If the page you are on is able to be edited via a 'Composer' form, this button will allow direct access to this form.
@@ -28,5 +28,3 @@ Most editing activities performed on a concrete5 website start via one of the to
 
 #### Intelligent Search
 ![](/assets/search.png) This search box can be used to quickly find; pages on your site, administration pages within the site's 'Dashboard' and help resources.
-
-</div>
