@@ -24,7 +24,3 @@
 
 ### Managing Files
 * [File Management](file-management.md)
-
-## Further Help
-* [Needing more guidance?](needing-more-guidance.md)
-
