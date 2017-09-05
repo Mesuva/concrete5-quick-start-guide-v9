@@ -16,9 +16,9 @@ If the page you have selected has been configured for 'Composer' editing, you wi
 Complete the form presented and select the blue **Publish** button. 
 
 ## To publish a page that is directly editable
-Page types may also be configured to be initially created through direct editing. In this case after selecting a page type the page will be *immediately* presented in edit mode. When creating a page this way:
+<img src="/assets/publishpage.png" class="right" />Page types may also be configured to be initially created through direct editing. In this case after selecting a page type the page will be *immediately* presented in edit mode. When creating a page this way:
 
-1.<img src="/assets/publishpage.png" class="right" />  Add page content by adding blocks or editing any default blocks
+1. Add page content by adding blocks or editing any default blocks
 2. Select the **Edit Page (Pencil)** button on the top left of the tool bar and publish your new page.
 
 When you create a page this way and try to publish it you wil be presented with a message that you haven't entered a page name or selected its location. To complete:
