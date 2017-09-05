@@ -14,6 +14,6 @@ h2,h3,h4 {
   margin-bottom: 20px;
 }
 
-.page {
+span.page {
  display: none; 
 }
