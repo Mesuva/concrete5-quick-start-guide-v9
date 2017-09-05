@@ -1,6 +1,8 @@
 # Editing existing page content
 
-Most content on a concrete5 website is managed through adding and editing *blocks*. Blocks are displayed within *Editable Areas* on pages.Areas that highlight in green are regular areas that appear on the current page only.
+Most content on a concrete5 website is managed through adding and editing *blocks*. Blocks are displayed within *Editable Areas* on pages.
+
+Areas that highlight in green are regular areas that appear on the current page only.
 Areas that highlight in blue are 'Global' areas - content in these areas will appear sitewide.
 
 ## To edit a block on a page
