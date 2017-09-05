@@ -2,5 +2,10 @@
   "pdf": {
         "fontSize": 10,
         "paperSize" : "a4"
+    },
+    
+    "theme-default": {
+      "showLevel": false
     }
+
 }
