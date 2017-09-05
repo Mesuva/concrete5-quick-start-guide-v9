@@ -21,7 +21,7 @@ Images can be added in two ways:
 * By using a **Content** block and placing an image directly within the content.
 
 ## Adding YouTube videos
-Add a **YouTube Video** block to embed a youtube video. Paste in the address of the video from youtube (e.g. https://www.youtube.com/watch?v=ABCDEF) into the YouTube URl field and press 'Add'.
+Add a **YouTube Video** block to embed a youtube video. Paste in the address of the video from youtube (e.g. https://www.youtube.com/watch?v=ABCDEF) into the YouTube URL field and press 'Add'.
 
 ## To copy blocks to the clipboard
 Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easily copied between pages. To copy a block:
