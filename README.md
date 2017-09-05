@@ -1,4 +1,5 @@
 # Quick Start Guide for concrete5 Version 8
+_**Last updated September 2017**_
 
 A concise guide covering the basics of editing with the concrete5 Content Management System
 
