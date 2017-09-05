@@ -1,4 +1,4 @@
-## Changing page templates
+## Changing Page Templates
 Some themes offer the ability for the broader page layout itself to be changed.
 
 To change page template:
