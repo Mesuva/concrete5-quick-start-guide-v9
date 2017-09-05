@@ -19,6 +19,4 @@ Files can be dragged onto this page to automatically upload them, or the blue **
 
 ## Adding files and links to pages
 
-Once files have been added to the File Manager, the files can be linked to via blocks such as the **Content** block, **File** block and **Image** block.
-
-When selecting files from blocks, the File Manager will appear, where you can click on an file to select it, or at this point upload a new file.
+Once files have been added to the File Manager, the files can be linked to via blocks such as the **Content** block, **File** block and **Image** block. When selecting files from blocks, the File Manager will appear, where you can click on an file to select it, or at this point upload a new file.
