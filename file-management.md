@@ -2,7 +2,7 @@
 
 Images and files can be uploaded either via the Files section within the Dashboard, or directly at the time that they are added to a page.
 
-## Access the Files page of the Dashboard
+## To view and manage previously uploaded files
 
 Click the **Dashboard** button on the toolbar and select **Files**.
 
