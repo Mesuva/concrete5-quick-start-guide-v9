@@ -15,7 +15,7 @@
 
 ### Creating and Editing Pages
 * [Creating New Pages](creating-new-pages.md)
-* [Changing page names, URL paths and metadata](changing-page-names-url-paths-and-metadata.md)
+* [Changing Page Names, URL Paths and Metadata](changing-page-names-url-paths-and-metadata.md)
 * [Adjusting Page Attributes](adjusting-page-attributes.md)
 * [Creating Page Layouts](creating-page-layouts.md)
 * [Changing Page Templates](changing-page-templates.md)
