@@ -3,5 +3,5 @@
         "fontSize": 10,
         "paperSize" : "a4"
     },
-   "plugins": ["page-numbering"]
+   "plugins": ["numbered-headings"]
 }
