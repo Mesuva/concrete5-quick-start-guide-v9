@@ -1,4 +1,4 @@
-# Changing page names, URL paths and metadata
+# Changing Page Names, URL Paths and Metadata
 
 ## To change the name or the url of a page
 1. Select the **Page Settings (Gear)** button on the top toolbar. 
