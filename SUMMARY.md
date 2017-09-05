@@ -17,9 +17,10 @@
 * [Creating New Pages](creating-new-pages.md)
 * [Changing page names, URL paths and metadata](changing-page-names-url-paths-and-metadata.md)
 * [Adjusting Page Attributes](adjusting-page-attributes.md)
-* [Creating page layouts](creating-page-layouts.md)
-* [Sitemap and moving pages](sitemap-and-moving-pages.md)
-* [Deleting, restoring pages and versioning](deleting-restoring-pages-and-versioning.md)
+* [Creating Page Layouts](creating-page-layouts.md)
+* [Changing Page Templates](changing-page-templates.md)
+* [Sitemap and Moving Pages](sitemap-and-moving-pages.md)
+* [Deleting, Restoring Pages and Versioning](deleting-restoring-pages-and-versioning.md)
 
 ### Managing Files
 * [File Management](file-management.md)
