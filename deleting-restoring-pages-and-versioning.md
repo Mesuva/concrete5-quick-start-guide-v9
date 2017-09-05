@@ -1,4 +1,4 @@
-# Deleting, restoring pages and versioning
+# Deleting, Restoring Pages and Versioning
 
 ## Deleting Pages
 
