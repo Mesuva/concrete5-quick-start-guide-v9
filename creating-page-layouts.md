@@ -1,8 +1,8 @@
-# Creating page layouts
+# Creating Page Layouts
 
 There are two common ways of changing the broader layout of a page:
 
-## Creating Layouts
+## Creating Area Layouts
 
 Editable areas on a page can be split up in further columns of editable areas.
 To add a layout:
