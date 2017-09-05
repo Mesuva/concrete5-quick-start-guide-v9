@@ -2,10 +2,5 @@
   "pdf": {
         "fontSize": 10,
         "paperSize" : "a4"
-    },
-    "pluginsConfig": {
-        "theme-default": {
-            "showLevel": false
-        }
     }
 }
