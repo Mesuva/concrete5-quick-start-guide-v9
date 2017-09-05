@@ -26,6 +26,6 @@ When you create a page this way and try to publish it you wil be presented with 
 1. Select the **Page Composer Interface** link. This will bring up the 'Composer' interface where you can enter details for the new page, including selecting the desired location of the new page within the site.
 2. Complete these details and press the **Publish** button.
 
-## To edit a page created via the composer
+## To edit a page created via the Composer
 
 Pages created via the Composer form can still be edited via the normal editing method. However, the special fields need to be edited by clicking on the **Page Settings** button on the tool bar and selecting **Composer** from the panel. The Composer form will be presented again, where you can make further edits and Publish the page.
