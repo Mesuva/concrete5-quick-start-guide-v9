@@ -1,6 +1,7 @@
 # Editing existing page content
 
-Most content on a concrete5 website is managed through adding and editing *blocks*. Blocks are displayed within *Editable Areas* on pages.
+Most content on a concrete5 website is managed through adding and editing *blocks*. Blocks are displayed within *Editable Areas* on pages.Areas that highlight in green are regular areas that appear on the current page only.
+Areas that highlight in blue are 'Global' areas - content in these areas will appear sitewide.
 
 ## To edit a block on a page
 
@@ -15,10 +16,6 @@ While the page is in Edit Mode further blocks on the page can be edited and save
 1. Select the **Add Content (Plus)** button on the top toolbar. A block toolbar will slide in from the left.
 2. **Drag** the block you wish to add onto the page, dropping it onto the green and blue highlighted areas.
 3. The added block's edit controls will appear. Configure the block as you need and select the block's blue **Save** button.
-
-### Editable areas
-Areas that highlight in green are regular areas that appear on the current page only.
-Areas that highlight in blue are 'Global' areas - content in these areas will appear sitewide
 
 #To re-arrange blocks on a page
 
