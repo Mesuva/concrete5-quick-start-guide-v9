@@ -8,7 +8,6 @@
 4. Click on the option so that it is highlighted with a blue background (if it is not already).
 5. On the right hand side, find the 'Exclude From Nav' attribute and check its checkbox.
 ![](/assets/excludenav.png)
-
 6. Select **Save Changes**.
 7. Select the **Edit Page (Pencil)** button on the top toolbar.
 8. Finally, select the blue **Publish Changes** button.
