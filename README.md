@@ -11,5 +11,8 @@ Extensive documentation is available from the concrete5 website at: http://docum
 
 *concrete5 logo used with permission*
 
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
 
 
