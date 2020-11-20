@@ -1,6 +1,6 @@
 # Introduction
 
-_**Last updated September 2017**_
+_**Last updated September 2020**_
 
 A concise guide covering the basics of editing with the concrete5 Content Management System
 
