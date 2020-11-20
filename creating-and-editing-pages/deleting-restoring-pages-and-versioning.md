@@ -18,11 +18,11 @@ To view the Trash:
 
 When a page is published previous revisions of the page are retained. To view previous versions of a page:
 
-1. <img src="/assets/version.png" class="right" />Select the **Page Settings (Gear)** button on the top toolbar. 
+1. ![](../.gitbook/assets/version.png)Select the **Page Settings \(Gear\)** button on the top toolbar. 
 2. Select **Versions**.
 3. Click on a page version - it will be previewed
 4. While hovering over a page version, click the **arrow** icon next to the timestamp of the version to bring up a menu
 5. Select **Approve** to make that version the current visible version of the page
 
-**Note:** When adjusting the page version, take note of the 'Page is Pending Approval' notice - unapproved newer page versions will be shown while you are editing the site and will ask to be approved. 
-Through the Versions panel you can also delete versions if they are no longer required.
+**Note:** When adjusting the page version, take note of the 'Page is Pending Approval' notice - unapproved newer page versions will be shown while you are editing the site and will ask to be approved. Through the Versions panel you can also delete versions if they are no longer required.
+

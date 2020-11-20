@@ -9,8 +9,7 @@ Either:
 
 ## To re-order pages
 
-Drag and drop pages displayed within the sitemap tree by *their page icons*. 
-New icons will appear on the sitemap to show where you are moving the page to.
+Drag and drop pages displayed within the sitemap tree by _their page icons_. New icons will appear on the sitemap to show where you are moving the page to.
 
 ### Changing page nesting
 
@@ -20,4 +19,5 @@ If you drag a page and drop it onto another page, you will be given the option t
 
 **Alias** - if you wish the page to appear in navigation in another section, but keep the page in the same location in the sitemap
 
-**Copy** - if you wish to make a full copy of the page in the new location (i.e. you wish to then edit it and change content)
+**Copy** - if you wish to make a full copy of the page in the new location \(i.e. you wish to then edit it and change content\)
+
