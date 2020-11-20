@@ -4,10 +4,8 @@
 
 ## Getting Started
 
-* [Introduction](getting-started/readme.md)
+* [Introduction](getting-started/getting-started.md)
 * [Signing In and Out](getting-started/signing-in-and-out.md)
-* [What browsers can I use?](getting-started/what-browsers-can-i-use.md)
-* [Signing out](getting-started/signing-out.md)
 
 ## Editing
 
