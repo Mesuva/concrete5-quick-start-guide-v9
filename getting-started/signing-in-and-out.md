@@ -10,9 +10,3 @@ Signing in will return you to your site's home page, with a new tool bar across 
 
 concrete5 is designed to work with _modern_ browsers, such as _Google Chrome, Firefox, Safari, Internet Explorer 10+ and Microsoft Edge_. It is recommended you use a recently released browser to avoid editing issues. Basic editing tasks are possible on a tablet device, but it is recommended that you use a non-touch device for full editing control.
 
-## Signing Out <a id="signout"></a>
-
-Once you have completed your editing tasks it is good practice to sign out of your website.
-
-To sign out select the **Dashboard \(Sliders\)** button on the top right of the toolbar and select the **Sign Out** link at the bottom of the panel.
-
