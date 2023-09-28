@@ -18,7 +18,7 @@ To view the Trash:
 
 When a page is published previous revisions of the page are retained. To view previous versions of a page:
 
-1. ![](../.gitbook/assets/version.png)Select the **Page Settings \(Gear\)** button on the top toolbar. 
+1. Select the **Page Settings \(Gear\)** button on the top toolbar. 
 2. Select **Versions**.
 3. Click on a page version - it will be previewed
 4. While hovering over a page version, click the **arrow** icon next to the timestamp of the version to bring up a menu

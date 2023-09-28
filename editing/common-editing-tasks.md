@@ -2,7 +2,8 @@
 
 ## To insert headings and paragraphs
 
-Use the Content block to include text headings and paragraphs on a page. Add or Edit a Content block, _highlight some text_ and select the **Formatting** drop down on the toolbar and select a heading type. ![](../.gitbook/assets/editor.png)
+Use the Content block to include text headings and paragraphs on a page. Add or Edit a Content block, _highlight some text_ and select the **Formatting** drop down on the toolbar and select a heading type. 
+![](../.gitbook/assets/editor.png)
 
 ## To insert links to pages, files and external URLs
 
@@ -34,7 +35,7 @@ Blocks can be copied to a 'clipboard' within Concrete CMS, allowing them to be e
 
 ## To place blocks from the clipboard
 
-1. ![](../.gitbook/assets/clipboard.png)Select the **Add Content \(Plus\)** button on the top toolbar. The block toolbar will slide in from the left.
+1. Select the **Add Content \(Plus\)** button on the top toolbar. The block toolbar will slide in from the left.
 2. At the top of the panel, click the dropdown and select **Clipboard** from the options.
 3. Blocks within the clipboard will be displayed. Drag the block you wish to place into an editable area.
 
