@@ -10,7 +10,9 @@ Areas that highlight in green are regular areas that appear on the current page 
 
 1. Select the **Edit Page \(Pencil\)** button on the top toolbar. 
 2. Hover over the block you wish to edit. Editable blocks will be outlined in green \(or blue if they have been placed in 'global' areas\).
-3. ![](../.gitbook/assets/editblock.png)Click or tap on the block and from the context menu select **Edit Block**. Different block types have different editing controls. For general text content a _Content Block_ is most often used. When Content blocks are edited the page content will become directly editable and a formatting toolbar will be presented above the content.
+3.  Click or tap on the block and from the context menu select **Edit Block**. Different block types have different editing controls. For general text content a _Content Block_ is most often used. When Content blocks are edited the page content will become directly editable and a formatting toolbar will be presented above the content. 
+
+![](../.gitbook/assets/editblock.png)
 4. Edit the block contents using the controls displayed and save the block by selecting the blue **Save** button.
 
 While the page is in Edit Mode further blocks on the page can be edited and saved.
@@ -25,9 +27,9 @@ While the page is in Edit Mode further blocks on the page can be edited and save
 
 Blocks can be re-arranged on a page via the following steps:
 
-1. ![](../.gitbook/assets/moveblock.png)
+1. Hover over the block you wish to move and start dragging it by the _four pointed arrow_ in the top right corner of the block.
 
-   Hover over the block you wish to move and start dragging it by the _four pointed arrow_ in the top right corner of the block.
+ ![](../.gitbook/assets/moveblock.png)
 
 2. Drag the block to a new position - areas on the page will highlight to show possible new positions.
 3. Let go of the mouse button while one of the new positions is highlighted.
