@@ -28,5 +28,5 @@ Most editing activities performed on a Concrete CMS website start via one of the
 
 ## Intelligent Search
 
-![](../.gitbook/assets/search.png) This search box can be used to quickly find; pages on your site, administration pages within the site's 'Dashboard' and help resources.
+![](../.gitbook/assets/search.svg) This search box can be used to quickly find; pages on your site, administration pages within the site's 'Dashboard' and help resources.
 
