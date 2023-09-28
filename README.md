@@ -1,14 +1,14 @@
 # Introduction
 
-_**Last updated September 2020**_
+_**Last updated September 2023**_
 
-A concise guide covering the basics of editing with the concrete5 Content Management System
+A concise guide covering the basics of editing with Concrete CMS
 
 ## Needing more guidance?
 
-This guide is intended to cover common editing tasks and is no way an exhaustive coverage of concrete5's features.
+This guide is intended to cover common editing tasks and is no way an exhaustive coverage of Concrete's features.
 
-Extensive documentation is available from the concrete5 website at: [http://documentation.concrete5.org/editors](http://documentation.concrete5.org/editors)
+Extensive documentation is available from the Concrete CMS website at: [http://documentation.concretecms.org/editors](http://documentation.concretecms.org/editors)
 
-_concrete5 logo used with permission_
+_Concrete CMS logo used with permission_
 

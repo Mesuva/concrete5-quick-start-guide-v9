@@ -6,7 +6,7 @@ Via the sitemap, left click on the page you wish to delete to bring up a menu. C
 
 ## Restoring Pages
 
-Pages that are deleted in concrete5 are not deleted completely - they are moved to a 'Trash' section within the sitemap, from where you can restore them if necessary.
+Pages that are deleted in Concrete CMS are not deleted completely - they are moved to a 'Trash' section within the sitemap, from where you can restore them if necessary.
 
 To view the Trash:
 

@@ -1,6 +1,6 @@
 # The Toolbar Explained
 
-Most editing activities performed on a concrete5 website start via one of the top toolbar buttons.
+Most editing activities performed on a Concrete CMS website start via one of the top toolbar buttons.
 
 **Buttons on the** _**left**_ **of the toolbar relate to the current page:**
 
@@ -24,7 +24,7 @@ Most editing activities performed on a concrete5 website start via one of the to
 
 ## Dashboard \(Sliders\)
 
-![](../.gitbook/assets/slider.png) Displays the main pages of concrete5's 'Dashboard'. The Dashboard is where site-wide settings and functionality are available, such as managing files and users.
+![](../.gitbook/assets/slider.png) Displays the main pages of Concrete's 'Dashboard'. The Dashboard is where site-wide settings and functionality are available, such as managing files and users.
 
 ## Intelligent Search
 

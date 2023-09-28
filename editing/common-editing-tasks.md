@@ -27,7 +27,7 @@ Add a **YouTube Video** block to embed a youtube video. Paste in the address of 
 
 ## To copy blocks to the clipboard
 
-Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easily copied between pages. To copy a block:
+Blocks can be copied to a 'clipboard' within Concrete CMS, allowing them to be easily copied between pages. To copy a block:
 
 * Put the page into Edit Mode
 * Click on the block you wish to copy and select 'Copy To Clipboard' from the popup menu
