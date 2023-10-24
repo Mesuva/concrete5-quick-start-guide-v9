@@ -2,7 +2,7 @@
 
 ## To insert headings and paragraphs
 
-Use the Content block to include text headings and paragraphs on a page. Add or Edit a Content block, _highlight some text_ and select the **Formatting** drop down on the toolbar and select a heading type. 
+Use the Content block to include text headings and paragraphs on a page. Add or Edit a Content block, _highlight some text_ and select the drop down towards the end of the toolbar and select a heading type. 
 ![](../.gitbook/assets/editor.png)
 
 ## To insert links to pages, files and external URLs

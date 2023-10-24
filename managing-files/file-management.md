@@ -8,9 +8,11 @@ Click the **Dashboard** button on the toolbar and select **Files**.
 
 ## Uploading and managing files
 
+Within the File Manager individual files can be clicked on to be viewed with detail, where they can be previewed, downloaded and deleted.
+The **Manage** drop down when viewing an individual file offers options to delete or swap a file with a new upload.
+
 ![](../.gitbook/assets/managingfiles.png)
 
-Within the File Manager individual files can be clicked on to present a context menu, where they can be previewed, downloaded and deleted.
 
 ## To upload new files
 
