@@ -28,7 +28,7 @@ While the page is in Edit Mode further blocks on the page can be edited and save
 
 Blocks can be re-arranged on a page via the following steps:
 
-1. Hover over the block you wish to move and start dragging it by the _four pointed arrow_ in the top right corner of the block.
+1. Hover over the block you wish to move and start dragging it by the _four pointed arrow_ in the middle of the block.
 
 ![](../.gitbook/assets/moveblock.png)
 

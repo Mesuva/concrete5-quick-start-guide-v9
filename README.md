@@ -1,6 +1,6 @@
 # Introduction
 
-_**Last updated September 2023**_
+_**Last updated October 2023**_
 
 A concise guide covering the basics of editing with Concrete CMS
 
@@ -11,4 +11,3 @@ This guide is intended to cover common editing tasks and is no way an exhaustive
 Extensive documentation is available from the Concrete CMS website at: [http://documentation.concretecms.org/editors](http://documentation.concretecms.org/editors)
 
 _Concrete CMS logo used with permission_
-
