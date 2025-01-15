@@ -1,6 +1,6 @@
 # Introduction
 
-_**Last updated October 2023**_
+_**Last updated January 2025**_
 
 A concise guide covering the basics of editing with Concrete CMS
 
